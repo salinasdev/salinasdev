@@ -32,5 +32,34 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/>
 </p>
 
+### GITHUB STATS 
+
+<diV>
+
+  <div align="center">
+    <a href="#"><img alt="salinasdev Stats" src="https://github-readme-stats.vercel.app/api?username=salinasdev&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
+    <a href="#"><img alt="salinasdev Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salinasdev&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
+   <p align="center"> <img src="https://komarev.com/ghpvc/?username=salinasdev&label=Profile%20views&color=0e75b6&style=flat" alt="salinasdev" /> </p>
+    <br/>
+  </div>
+
+  <hr/>
+
+  <div>
+    <a href="#"><img alt="salinasdev Graph" src="https://activity-graph.herokuapp.com/graph?username=salinasdev&custom_title=salinasdev%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a>
+  <div> 
+</div>
+   
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=salinasdev&column=8&theme=onedark" />
+</div>
+<br/>
+   
+   <div align="center">
+ 
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
+  
+</div>
 
 
